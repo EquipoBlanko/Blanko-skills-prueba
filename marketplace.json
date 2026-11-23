@@ -1,0 +1,13 @@
+{
+  "name": "blanko-studio",
+  "owner": { "name": "Blanko Studio" },
+  "metadata": { "description": "Skills licenciadas de Blanko Studio para Meta Ads." },
+  "plugins": [
+    {
+      "name": "blanko-pack-copys",
+      "source": "./plugins/blanko-pack-copys",
+      "description": "Pack Copys Meta Ads de Blanko Studio. Requiere licencia activa (token bk_).",
+      "version": "0.1.0"
+    }
+  ]
+}
